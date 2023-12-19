@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Lukas, a passionate Software Engineer!
+- 🔭 I'm currently working on websites
+- 🌱 I'm also learning data science
 <!--
 **lukaszwaller/lukaszwaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
