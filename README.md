@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lukas, a passionate Software Engineer!
+I'm Lukas, a Software Engineer!
 - 🔭 I'm currently working on websites
 - 🌱 I'm also learning data science
 <!--
