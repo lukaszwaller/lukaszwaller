@@ -1,7 +1,10 @@
-### Hi there 👋
-I'm a Software Engineer!
-- 🔭 I'm currently working on websites
-- 🌱 I'm also learning data science
+### Hi there! 👋
+
+I'm a Software Engineer 🚀
+
+- 🦀 Currently diving into Rust
+- ❤️‍🔥 Passionate about solving complex problems
+
 <!--
 **lukaszwaller/lukaszwaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
